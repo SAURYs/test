@@ -12,5 +12,4 @@ this is 4th edit.
 Creating a new branch is quick and sipmple!
 ###############
 this is 7 edit.
----------------
-this line is edited on WSL2.
+this is add on WSL.
