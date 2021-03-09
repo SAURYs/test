@@ -9,4 +9,4 @@ this is 4th edit.
 5 edit.
 ###########
 6 edit.
-Creating a new branch is quick & sipmple!
+Creating a new branch is quick and sipmple!
