@@ -13,3 +13,4 @@ Creating a new branch is quick and sipmple!
 ###############
 this is 7 edit.
 this is add on WSL.
+this is added on xiaomiPC.
